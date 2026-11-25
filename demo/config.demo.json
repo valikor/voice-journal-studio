@@ -1,0 +1,1 @@
+{"sources": ["demo/inbox"], "min_date": "2026-01-01", "journal_repo": "demo/journal", "name_groups": [["Pip"]], "mine_min_kid_segments": 2, "pitch": {"kid_min": 190, "adult_female_min": 150}, "speakers": {"kid": {"label": "Pip", "emoji": "\ud83d\udc67"}}}

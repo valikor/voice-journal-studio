@@ -1,0 +1,14 @@
+{
+  "sources": ["~/VoiceMemosInbox"],
+  "journal_repo": "~/journal-site",
+  "name_groups": [["Pip", "皮皮"]],
+  "asr_prompt": "Pip, pancakes, dinosaur.",
+  "shorthand": {},
+  "rules": {"kid_first_year": null, "year_allowlist": {}},
+  "speakers": {
+    "kid": {"label": "Pip", "emoji": "\ud83d\udc67"},
+    "dad": {"label": "Dad", "emoji": "\ud83d\udc68"},
+    "mom": {"label": "Mom", "emoji": "\ud83d\udc69"},
+    "other": {"label": "Other", "emoji": "\ud83d\udde3\ufe0f"}
+  }
+}
